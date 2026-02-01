@@ -18,6 +18,14 @@ Before running the commands below, you'll need to open a terminal:
 
 ### Setup Instructions
 
-1. git clone https://github.com/<your-username>/<repository-name>.git
-2. cd <repository-name>
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/<your-username>/<repository-name>.git
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd <repository-name>
+   ```
+
 3. Start coding!
