@@ -20,4 +20,4 @@ Before running the commands below, you'll need to open a terminal:
 
 1. git clone https://github.com/<your-username>/<repository-name>.git
 2. cd <repository-name>
-3. 
+3. Start coding!
